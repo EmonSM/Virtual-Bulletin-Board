@@ -7,7 +7,7 @@
 - Rotate any selected image
 - Resize any selected image (zoom in & out)
 - Freely move any selected image around the bulletin board (Cascade Mode)
-- Auto-scale all images to a uniform size and display them in a grid alignment (Tile Mode)
+- Auto-scale all images to a uniform size and display them in a grid alignment with scrolling if necessary (Tile Mode)
 
 **Sample Screenshots**:
 
