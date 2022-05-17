@@ -1,4 +1,4 @@
-Virtual Bulletin Board
+**Virtual Bulletin Board**
 
 **Description**: A virtual bulletin board that allows images to be added, rotated, resized and placed in either a free/random cascading alignment or a uniform grid alignment.
 
