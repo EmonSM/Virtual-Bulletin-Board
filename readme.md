@@ -1,6 +1,6 @@
 Virtual Bulletin Board
 
-**Description**: A virtual bulletin board that allows images to be added, rotated, resized and placed in either a freely cascading/overlapping alignment or a uniform grid alignment.
+**Description**: A virtual bulletin board that allows images to be added, rotated, resized and placed in either a free/random cascading alignment or a uniform grid alignment.
 
 **Core Functionality**:
 - Add and remove (delete) images from the bulletin board
@@ -10,6 +10,14 @@ Virtual Bulletin Board
 - Auto-scale all images to a uniform size and display them in a grid alignment (Tile Mode)
 
 **Sample Screenshots**:
+
+Cascade Mode
+
+![Virtual Bulletin Board - Cascade Mode](https://user-images.githubusercontent.com/55682406/168747314-b6efd53d-0e58-4f38-b416-842085b69ead.png)
+
+Tile Mode
+
+![Virtual Bulletin Board - Tile Mode](https://user-images.githubusercontent.com/55682406/168747296-2021cf1e-b3e7-436f-9c6c-38e8001187dd.png)
 
 **Developers**: Emon Sen Majumder
 
